@@ -1,6 +1,7 @@
 # LumbungKita (MINIMUM VALUE PRODUCT)
 **Kemenkop Hackathon Digital Cooperatives Expo 2026**
-Pilar 3 — Ekonomi Desa | Tim: [isi nama tim kalian]
+Pilar 3 — Ekonomi Desa | Tim: LumbungKita
+website lumbungkita : https://mediumturquoise-dog-563025.hostingersite.com/
 
 ## Apa itu LumbungKita?
 LumbungKita adalah mesin agregator berbasis "gotong royong digital" yang dirancang untuk mengatasi kesenjangan skala usaha koperasi desa. Kami menjembatani koperasi kecil (100–300kg/musim) dengan pasar institusional (minimum order 500–2.000kg) melalui algoritma bundling kolektif yang transparan dan akuntabel, tanpa menghilangkan otonomi masing-masing koperasi.
@@ -32,8 +33,6 @@ lumbungkita/
 - PHP >= 7.4
 - Ekstensi: `json`
 - Folder `data/` harus writable
-
-## Cara pakai untuk demo ke juri
 
 **Alur demo yang direkomendasikan:**
 1. Buka tab **Koperasi** → tunjukkan data 6 koperasi contoh yang sudah ada
