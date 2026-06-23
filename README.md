@@ -36,11 +36,11 @@ lumbungkita/
 
 **Alur demo yang direkomendasikan:**
 1. Buka tab **Koperasi** → tunjukkan data 6 koperasi contoh yang sudah ada
-2. Klik **Tambah koperasi** → isi form live di depan juri → Submit → tunjukkan data bertambah
-3. Pindah ke tab **Lumbung** → jelaskan bagaimana mesin bundling otomatis mengelompokkan stok
-4. Tunjukkan visualisasi "lumbung" (indikator mengisi) → jelaskan artinya
-5. Pindah ke tab **Pembeli** → jelaskan skor matching 0–100 yang transparan (bukan AI kotak hitam)
-6. Klik **Terima & sinkronkan** → pindah ke tab Dashboard → tunjukkan volume usaha bertambah real-time
-7. Jelaskan bahwa ini mensimulasikan sinkronisasi otomatis ke pembukuan SIMKOPDES
+2. Klik **Tambah koperasi** → isi form → Submit → data bertambah
+3. Pindah ke tab **Lumbung** → mesin bundling otomatis mengelompokkan stok
+4. visualisasi "lumbung"
+5. Pindah ke tab **Pembeli** → skor matching 0–100 yang transparan
+6. Klik **Terima & sinkronkan** → pindah ke tab Dashboard → volume usaha bertambah real-time
+7. ini mensimulasikan sinkronisasi otomatis ke pembukuan SIMKOPDES
 
 **Tombol Reset Demo** ada di pojok kanan atas nav — untuk reset data ke kondisi awal sebelum pitching.
