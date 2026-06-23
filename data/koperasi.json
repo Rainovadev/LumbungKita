@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "nama": "Koperasi Tani Makmur",
+        "desa": "Cibadak",
+        "kategori": "Kopi",
+        "region": "Jawa Barat",
+        "stok": 180,
+        "harga": 42000
+    },
+    {
+        "id": 2,
+        "nama": "Koperasi Sumber Rejeki",
+        "desa": "Pangalengan",
+        "kategori": "Kopi",
+        "region": "Jawa Barat",
+        "stok": 240,
+        "harga": 39000
+    },
+    {
+        "id": 3,
+        "nama": "Koperasi Mekar Jaya",
+        "desa": "Ciwidey",
+        "kategori": "Kopi",
+        "region": "Jawa Barat",
+        "stok": 95,
+        "harga": 45000
+    },
+    {
+        "id": 4,
+        "nama": "Koperasi Tani Lestari",
+        "desa": "Lumajang",
+        "kategori": "Beras",
+        "region": "Jawa Timur",
+        "stok": 1200,
+        "harga": 11500
+    },
+    {
+        "id": 5,
+        "nama": "Koperasi Sawah Hijau",
+        "desa": "Jember",
+        "kategori": "Beras",
+        "region": "Jawa Timur",
+        "stok": 900,
+        "harga": 11000
+    },
+    {
+        "id": 6,
+        "nama": "Koperasi Karya Bambu",
+        "desa": "Tasikmalaya",
+        "kategori": "Kerajinan Bambu",
+        "region": "Jawa Barat",
+        "stok": 60,
+        "harga": 85000
+    },
+    {
+        "id": "1782204744954",
+        "nama": "koperasi A",
+        "desa": "cingkareng",
+        "kategori": "Kakao",
+        "region": "Jawa Timur",
+        "stok": 300,
+        "harga": 50000
+    }
+]
